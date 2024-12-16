@@ -32,3 +32,7 @@ This form can be enhanced with:
 JavaScript Validation: To check for specific patterns like email format or strong passwords.
 Backend Integration: Connect to a server using PHP, Node.js, etc., to store user data.
 Database Connection: Save user data into databases like MySQL or MongoDB.
+
+
+
+output:https://drive.google.com/file/d/13SGi5xPAekFNIs-ACdebBiHHQ9EQSVpz/view?usp=drivesdk
